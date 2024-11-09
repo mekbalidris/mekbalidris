@@ -1,8 +1,10 @@
 💻Web Developer and Designer🧑‍🎨
 ---------------------------------
 
-👋I'm a 2nd year Computer Science student at USTHB. 🧠 I use ReactJS/Laravel. 👨🏻‍💻 Web developer at OMC and MC. 🧑‍🎨 Graphic designer for GDG Algiers and CSE.
-
+👋I'm a 2nd year Computer Science student at USTHB. 
+🧠 I use ReactJS/Laravel. 
+👨🏻‍💻 Web developer at OMC and MC. 
+🧑‍🎨 Graphic designer for GDG Algiers and CSE.
 * ✉️  You can contact me at [mekbalidriss@gmail.com](mailto:mekbalidriss@gmail.com)
 * 🧠  I'm learning Spring Boot
 

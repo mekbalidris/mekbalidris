@@ -6,7 +6,6 @@
 👨🏻‍💻 Web developer at OMC and MC. 
 🧑‍🎨 Graphic designer for GDG Algiers and CSE.
 * ✉️  You can contact me at [mekbalidriss@gmail.com](mailto:mekbalidriss@gmail.com)
-* 🧠  I'm learning Spring Boot
 
 ### Skills
 

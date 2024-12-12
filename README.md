@@ -1,4 +1,4 @@
-💻Web Developer and Designer🧑‍🎨
+💻Web Developer and Designer🧑‍🎨.
 ---------------------------------
 
 👋I'm a 2nd year Computer Science student at USTHB. 

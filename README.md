@@ -8,8 +8,6 @@
 * ✉️  You can contact me at [mekbalidriss@gmail.com](mailto:mekbalidriss@gmail.com)
 
 ### Skills
-
-# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mekbalidris&theme=catppuccin_mocha&hide_border=false)<br/>
 
 <p align="left">

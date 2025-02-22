@@ -27,7 +27,7 @@
     <img src="https://w7.pngwing.com/pngs/87/831/png-transparent-php-hd-logo.png" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://banner2.cleanpng.com/20180516/bcw/avc6qsw7x.webp" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>

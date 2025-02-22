@@ -36,7 +36,7 @@
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="filter: invert(1);"/>
   </a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/_0hx9BGa6qEHaJPd-2M34JU1EPeC6-yFXIHhy1HwOQI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9sYXJhdmVs/LWljb24tNDk3eDUx/Mi11d3lic3RrZS5w/bmc" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>

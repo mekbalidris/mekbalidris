@@ -1,3 +1,4 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 💻Web Developer💻
 -------------------------------
 
@@ -9,7 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <i class="devicon-express-original"></i>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>

@@ -30,7 +30,7 @@
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="filter: invert(1);"/>
   </a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg](https://imgs.search.brave.com/hk7r0OgBxDf6pbPH6Cal90pnOk9PZAjWjHenPCoBz_k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9sYXJhdmVs/LWljb24tOTk1eDEw/MjQtZGs3N2FoaDQu/cG5n)" alt="laravel" width="40" height="40"/>
 </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>

@@ -1,10 +1,9 @@
-💻Web Developer and Designer🧑‍🎨
+💻Web Developer💻
 -------------------------------
 
 👋I'm a 2nd year Computer Science student at USTHB. 
-🧠 I use ReactJS/Laravel. 
-👨🏻‍💻 Web developer at OMC and MC. 
-🧑‍🎨 Graphic designer for GDG Algiers and CSE.
+🧠 I use ReactJS/Tailwid and Express. 
+👨🏻‍💻 Web developer for OMC and MC. 
 * ✉️  You can contact me at [mekbalidriss@gmail.com](mailto:mekbalidriss@gmail.com)
 
 ### Skills

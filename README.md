@@ -6,7 +6,7 @@
 👨🏻‍💻 Web developer for OMC and MC. 
 * ✉️  You can contact me at [mekbalidriss@gmail.com](mailto:mekbalidriss@gmail.com)
 
-<h3 align="left">----------Languages and Tools----------</h3>
+<h1 align="left">----------Languages and Tools----------</h1>
 <h2>I use :</h2>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
